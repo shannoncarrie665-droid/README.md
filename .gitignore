@@ -1,0 +1,9 @@
+# Unreal Engine/UEFN temps
+DerivedDataCache/
+Intermediate/
+Saved/
+*.log
+
+# Blender temps
+*.blend1
+*.blend2
